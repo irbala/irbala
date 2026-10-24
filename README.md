@@ -31,9 +31,7 @@ I build clean, responsive websites in Arabic and English, with a soft spot for t
 | Project | What it is |
 |---|---|
 | [**Athkar**](https://irbala.github.io/Athkar/) | Morning and evening adhkar app, Arabic and RTL |
-| [**Twitch Chat Viewer**](https://irbala.github.io/chat/) | Custom Twitch chat embed with saved theme preferences |
 | [**Edinburgh Guide**](https://irbala.github.io/edinburgh/) | Bilingual Arabic/English travel guide |
-| [**Naqti**](https://irbala.github.io/Naqti/) | Camel marketplace UI mock-up |
 | [**Dr. Khalid Alabri**](https://irbala.github.io/kldmohd/) | Coaching website for a client |
 
 More on my [portfolio](https://irbala.github.io/FayAlabri/) ✦
@@ -41,5 +39,5 @@ More on my [portfolio](https://irbala.github.io/FayAlabri/) ✦
 ---
 
 <div align="center">
-<sub>Currently learning and building one small, polished project at a time.</sub>
+<sub>Currently learning to building small and polished projects.</sub>
 </div>
