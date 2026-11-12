@@ -30,7 +30,8 @@ I build clean, responsive websites in Arabic and English, with a soft spot for t
 
 | Project | What it is |
 |---|---|
-| [**Athkar**](https://irbala.github.io/Athkar/) | Morning and evening adhkar app, Arabic and RTL |
+| [**WebCraft**](https://irbala.github.io/WebCraft/) | Learn HTML, CSS and JavaScript step by step, with a live preview |
+| [**Athkar**](https://irbala.github.io/Athkar/) | Morning and evening adhkar app with tap-to-count, Arabic and RTL |
 | [**Edinburgh Guide**](https://irbala.github.io/edinburgh/) | Bilingual Arabic/English travel guide |
 | [**Dr. Khalid Alabri**](https://irbala.github.io/kldmohd/) | Coaching website for a client |
 
@@ -39,5 +40,5 @@ More on my [portfolio](https://irbala.github.io/FayAlabri/) ✦
 ---
 
 <div align="center">
-<sub>Currently learning to building small and polished projects.</sub>
+<sub>Currently building small, polished projects.</sub>
 </div>
